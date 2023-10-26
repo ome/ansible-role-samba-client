@@ -1,7 +1,7 @@
 Samba Client
 ============
 
-[![Build Status](https://travis-ci.org/ome/ansible-role-samba-client.svg)](https://travis-ci.org/ome/ansible-role-samba-client)
+[![Actions Status](https://github.com/ome/ansible-role-samba-client/workflows/Molecule/badge.svg)](https://github.com/ome/ansible-role-samba-client/actions)
 [![Ansible Role](https://img.shields.io/ansible/role/41990.svg)](https://galaxy.ansible.com/ome/samba_client/)
 
 Install packages for accessing samba shares.
