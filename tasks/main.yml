@@ -3,7 +3,7 @@
 
 - name: samba mounts | install clients
   become: true
-  yum:
+  ansible.builtin.dnf:
     pkg: "{{ item }}"
     state: present
   with_items:
